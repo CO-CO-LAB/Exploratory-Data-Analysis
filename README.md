@@ -4,8 +4,8 @@ This portfolio project analyzes the 10,000 most popular movies using Python, SQL
 
 ## Tools Used:
 - Python (Pandas, Matplotlib)
-- SQL (SQLite)
-- Power BI
+- SQL  
+- Power BI (in progress)
 
 ### Key Findings:
 1. The number of movies released per year has grown steadily since 2000.
