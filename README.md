@@ -1,11 +1,9 @@
-# Movie Analytics Portfolio
+# Data Analytics Portfolio
 
-This portfolio project analyzes the 10,000 most popular movies using Python, SQL, and Power BI. The purpose is to showcase my skills in data cleaning, analysis, and visualization. 
-
-## Tools Used:
+## Tools:
 - Python (Pandas, Matplotlib)
 - SQL  
-- Power BI (in progress)
+- BI Tool Tableau
 
 ### Key Findings:
 1. The number of movies released per year has grown steadily since 2000.
