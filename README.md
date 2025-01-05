@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Data Analytics
 
 ## Tools:
 - Python (Pandas, Matplotlib)
